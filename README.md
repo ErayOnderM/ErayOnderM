@@ -30,7 +30,7 @@
   <img src="https://trophy.ryglcloud.net/?username=ErayOnderM&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="ErayOnderM's GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ErayOnderM&theme=nightowl&radius=10" alt="ErayOnderM's Activity Graph" />
 </p>
 
 
